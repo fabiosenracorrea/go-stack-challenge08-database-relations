@@ -24,8 +24,9 @@ class createOrderProductsDetailsTable1604425754722
           },
           {
             name: 'price',
-            type: 'decimal',
+            type: 'numeric',
             scale: 2,
+            precision: 10,
           },
           {
             name: 'quantity',
