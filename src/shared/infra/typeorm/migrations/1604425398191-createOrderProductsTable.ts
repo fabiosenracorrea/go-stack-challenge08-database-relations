@@ -15,6 +15,7 @@ class createOrderProductsTable1604425398191 implements MigrationInterface {
           },
           {
             name: 'customer_id',
+            isNullable: true,
             type: 'uuid',
           },
           {

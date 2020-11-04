@@ -16,6 +16,7 @@ class createOrderProductsDetailsTable1604425754722
           },
           {
             name: 'product_id',
+            isNullable: true,
             type: 'uuid',
           },
           {
